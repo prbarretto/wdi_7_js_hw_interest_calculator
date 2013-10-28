@@ -1,6 +1,6 @@
 # Javascript Day 1 Homework
 
-Write a basic interest calculator for loans. Ask the user for the total amount borrowed, interest rate and number of years.
+Write a simple interest calculator for loans (except Bryce, who will write compound). Ask the user for the total amount borrowed, interest rate and number of years.
 
 Also, write a simple 'game' that makes a user guess a number between 1 and 10. If they are incorrect, output if they are high or low. If they are correct, output that they are correct and end the game. 
 
